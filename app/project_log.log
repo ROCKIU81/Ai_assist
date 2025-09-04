@@ -1,0 +1,26 @@
+INFO - Start polling
+INFO - Run polling for bot @NpyMbot id=7998086997 - 'BotPY'
+INFO -  Nekit write message (Как дела?)
+INFO - Update id=700180043 is handled. Duration 4155 ms by bot id=7998086997
+INFO -  Nekit write message (Что делаешь?)
+INFO - Update id=700180044 is handled. Duration 2233 ms by bot id=7998086997
+INFO -  Nekit write message (Как дела?)
+INFO - Update id=700180045 is handled. Duration 375 ms by bot id=7998086997
+INFO -  Nekit write message (Как дела)
+INFO - Update id=700180046 is handled. Duration 2061 ms by bot id=7998086997
+INFO -  Nekit write message (Что такое компилятор)
+INFO - Update id=700180047 is handled. Duration 4702 ms by bot id=7998086997
+INFO -  Nekit write message (Напиши код а языке программирования Пайтон, который реализовывает игру в змейку)
+INFO - Update id=700180048 is handled. Duration 7125 ms by bot id=7998086997
+INFO -  Nekit write message (Что такое компилятор)
+INFO - Update id=700180049 is handled. Duration 391 ms by bot id=7998086997
+INFO -  Nekit write message (Напиши другими словами)
+INFO - Update id=700180050 is handled. Duration 2452 ms by bot id=7998086997
+INFO -  Nekit write message (Да)
+INFO - Update id=700180051 is handled. Duration 2484 ms by bot id=7998086997
+INFO -  Nekit write message (Нарисуй картинку машины)
+INFO - Update id=700180052 is handled. Duration 3938 ms by bot id=7998086997
+INFO - Polling stopped
+ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7998086997)
+INFO - Polling stopped for bot @NpyMbot id=7998086997 - 'BotPY'
